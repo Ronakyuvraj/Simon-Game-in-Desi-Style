@@ -1,3 +1,4 @@
 {
+    "vscode_custom_css.imports": [""],
     "liveServer.settings.port": 5501
 }
